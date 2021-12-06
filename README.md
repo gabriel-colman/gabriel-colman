@@ -1,6 +1,6 @@
 ## Hello world! 👋, I'm Gabriel Colman Rodrigues
 
-[![Linkedin](https://www.linkedin.com/in/gabriel-colman-rodrigues-a09352113)
+[![Linkedin](https://www.linkedin.com/in/gabriel-colman-a09352113/)
 
 <img align='right' src="https://giphy.com/embed/RbDKaczqWovIugyJmW.gif" width="240">
 
