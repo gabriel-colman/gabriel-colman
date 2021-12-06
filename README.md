@@ -2,7 +2,7 @@
 
 [![Linkedin](https://www.linkedin.com/in/gabriel-colman-rodrigues-a09352113)
 
-<img align='right' src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="240">
+<img align='right' src="https://giphy.com/embed/RbDKaczqWovIugyJmW.gif" width="240">
 
 I'm student at [UFMS](https://ufms.br) currently studying Information Systems and a full-stack developer (in progress), with a 👌 tendency for the backend ❤️. 
 
