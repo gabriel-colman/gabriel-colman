@@ -4,7 +4,6 @@
 
 <img align='right' src="https://media.giphy.com/media/l3JDLY0bJA5N6TLqM/giphy.gif" width="240">
 
-I'm student at [UFMS](https://ufms.br) currently studying Information Systems and a full-stack developer (in progress), with a 👌 tendency for the backend ❤️. 
 
 Hello, I'm a graduate of the Information Systems course at the [UFMS](https://ufms.br) university, where I took part in the [faculty of computing](https://www.facom.ufms.br/). I'm a frontend and backed developer, with a full-stack trend 👌.
 
