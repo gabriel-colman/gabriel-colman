@@ -1,22 +1,24 @@
-## Hello world! 👋, I'm Guilherme Carvalho
+## Hello world! 👋, I'm Gabriel Colman Rodrigues
 
-[![Linkedin](https://img.shields.io/badge/guilhermercarvalho-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/guilhermercarvalho/)
-![GitHub followers](https://img.shields.io/github/followers/guilhermercarvalho?style=social)
+[![Linkedin](https://img.shields.io/badge/gabrielcolman-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-colman-rodrigues-a09352113/)
 
-<img align='right' src="https://media.giphy.com/media/jp9D8i0M5NyDwgM61c/giphy.gif" width="240">
+<img align='right' src="https://media.giphy.com/media/l3JDLY0bJA5N6TLqM/giphy.gif" width="240">
 
-I'm student at [UFMS](https://ufms.br) currently studying Information Systems and a full-stack developer (in progress), with a 👌 tendency for the backend ❤️. Acting to be a better coder and wishing to help build a better world for everyone 😃.
+I'm student at [UFMS](https://ufms.br) currently studying Information Systems and a full-stack developer (in progress), with a 👌 tendency for the backend ❤️. 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...
+Hello, I'm a graduate of the Information Systems course at the [UFMS](https://ufms.br) university, where I took part in the [faculty of computing](https://www.facom.ufms.br/). I'm a frontend and backed developer, with a full-stack trend 👌.
+
+### <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="50"> About me...
+
 
 ```javascript
-const guilherme = {
-  fullName: 'Guilherme Carvalho',
-  code: ['Javascript', 'Python', 'Java', 'Bash', 'HTML', 'CSS'],
-  backend: ['NodeJS', 'Flask', 'Django'],
-  frontend: ['React', 'Redux', 'Angular'],
-  database: ['PostgreSQL', 'MySQL', 'MongoDB', 'SQLite', 'Firebird'],
-  devOps: ['Ansible', 'Docker', 'Vagrant', 'AWS', 'Nginx'],
-  tools: ['Visual Studio Code', 'Git'],
+const Gabriel Colman Rodrigues= {
+  fullName: 'Gabriel Colman Rodrigues',
+  code: ['Javascript', 'Python', 'Java', 'Bash', 'HTML', 'CSS', 'PHP'],
+  backend: ['NodeJS', 'Adonis', 'Django', 'Hbernate', 'Lavarel'],
+  frontend: ['React', 'Angular'],
+  database: ['PostgreSQL', 'MySQL', 'MongoDB', 'SQLite'],
+  devOps: ['Ansible', 'Docker', 'Vagrant', 'AWS'],
+  tools: ['Visual Studio Code', 'Git', 'IntelliJ IDEA', 'Eclipse', 'Netbeans', 'Trello'],
 }
 ```
