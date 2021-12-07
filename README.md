@@ -7,7 +7,7 @@
 
 Hello, I'm a graduate of the Information Systems course at the [UFMS](https://ufms.br) university, where I took part in the [faculty of computing](https://www.facom.ufms.br/). I'm a frontend and backed developer, with a full-stack trend 👌.
 
-### <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="150"> About me...
+### <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="190"> About me...
 
 
 ```javascript
@@ -17,7 +17,7 @@ const Gabriel Colman Rodrigues= {
   backend: ['NodeJS', 'Adonis', 'Django', 'Hbernate', 'Lavarel'],
   frontend: ['React', 'Angular'],
   database: ['PostgreSQL', 'MySQL', 'MongoDB', 'SQLite'],
-  devOps: ['Ansible', 'Docker', 'Vagrant', 'AWS'],
+  devOps: [ 'Docker', 'Vagrant', 'AWS'],
   tools: ['Visual Studio Code', 'Git', 'IntelliJ IDEA', 'Eclipse', 'Netbeans', 'Trello'],
 }
 ```
