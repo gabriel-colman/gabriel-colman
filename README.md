@@ -14,7 +14,7 @@ Hello, I'm a graduate of the Information Systems course at the [UFMS](https://uf
 ```javascript
 const Gabriel_Colman = {
   fullName: 'Gabriel Colman Rodrigues',
-  code: ['Javascript', 'Python', 'Java', 'C', 'HTML', 'CSS', 'PHP'],
+  code: ['Javascript', 'C#', 'Python', 'Java', 'C', 'HTML', 'CSS', 'PHP'],
   backend: ['NodeJS', 'Adonis', 'Django', 'Hbernate', 'Lavarel'],
   frontend: ['React', 'Angular'],
   database: ['PostgreSQL', 'MySQL', 'MongoDB', 'SQLite'],
