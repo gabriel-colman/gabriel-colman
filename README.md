@@ -1,6 +1,8 @@
 ## ✨ Hi there, I'm Gabriel Colman Rodrigues! ✨
 
+- 🎓 **computer technician** at [IFMS](https://www.ifms.edu.br/)
 - 🎓 **Information Systems Graduate** at [UFMS](https://ufms.br)
+- 🎓 **Masters in Computer Science** at [UFMS](https://ufms.br)
 - 👨‍🏫 Former **Web Development Instructor** at **IFMS** for 2 years.
 - 👨‍💻 **Full Stack Developer** at **Coopercard** and experienced in front-end and back-end technologies.
 - 🚀 Passionate about **software development**, **machine learning**, and **cloud technologies**.
