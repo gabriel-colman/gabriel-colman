@@ -1,24 +1,49 @@
-## Hello world! 👋, I'm Gabriel Colman Rodrigues
+## ✨ Hi there, I'm Gabriel Colman Rodrigues! ✨
 
-[![Linkedin](https://img.shields.io/badge/gabrielcolman-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-colman-rodrigues-a09352113/)
+- 🎓 **Information Systems Graduate** at [UFMS](https://ufms.br)
+- 👨‍🏫 Former **Web Development Instructor** at **IFMS** for 2 years.
+- 👨‍💻 **Full Stack Developer** at **Coopercard** and experienced in front-end and back-end technologies.
+- 🚀 Passionate about **software development**, **machine learning**, and **cloud technologies**.
+- 📚 Instructor at **Digix**, teaching Python and software development to young learners.
+- 🤖 Currently working on projects involving **C#**, **React**, and **.NET**, alongside cloud platforms like **AWS** and **Azure**.
 
-<img align='right' src="https://media.giphy.com/media/l3JDLY0bJA5N6TLqM/giphy.gif" width="240">
+<img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250">
+---
 
+### 🛠️ Languages & Tools 🖥️
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</div>
 
-Hello, I'm a graduate of the Information Systems course at the [UFMS](https://ufms.br) university, where I took part in the [faculty of computing](https://www.facom.ufms.br/). I'm a frontend and backed developer, with a full-stack trend 👌.
+---
 
+### ⚡ GitHub Stats ⚡
 
-### <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="190"> About me...
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-colman&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-colman&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
+---
 
-```javascript
-const Gabriel_Colman = {
-  fullName: 'Gabriel Colman Rodrigues',
-  code: ['Javascript', 'C#', 'Python', 'Java', 'C', 'HTML', 'CSS', 'PHP'],
-  backend: ['NodeJS', 'Adonis', 'Django', 'Hbernate', 'Lavarel'],
-  frontend: ['React', 'Angular'],
-  database: ['PostgreSQL', 'MySQL', 'MongoDB', 'SQLite'],
-  devOps: [ 'Docker', 'Vagrant', 'AWS'],
-  tools: ['Visual Studio Code', 'Git', 'IntelliJ IDEA', 'Eclipse', 'Netbeans', 'Trello'],
-}
-```
+### 📫 Reach Me 💬
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-colman-rodrigues-a09352113/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gabrielcolman7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/gabriel_colman/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
