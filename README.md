@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)" />
 </div>
 ---
 
