@@ -6,7 +6,7 @@
 - 👨‍🏫 Former **Web Development Instructor** at **IFMS** for 2 years.
 - 👨‍💻 **Full Stack Developer** at **Coopercard** and experienced in front-end and back-end technologies.
 - 🚀 Passionate about **software development**, **machine learning**, and **cloud technologies**.
-- 📚 Instructor at **Digix**, teaching Python and software development to young learners.
+- 📚 Instructor at **Digix**, teaching C#, React and software development to young learners.
 - 🤖 Currently working on projects involving **C#**, **React**, and **.NET**, alongside cloud platforms like **AWS** and **Azure**.
 
 <img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250">
